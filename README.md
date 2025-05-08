@@ -1,8 +1,8 @@
 # IMLS Funding
 
-![IMLS logo.]("IMLS-Funding/imlslogo.png")
+<img src="https://github.com/tnguye27/IMLS-Funding/blob/main/imlslogo.png?raw=True" alt="IMLS Logo">
 
-## Trung Nguyen's Final Project
+## Introduction
 
 The Institute of Museum and Library Services (IMLS) is a federal agency dedicated to funding library, archive, and museum services. According to the IMLS website<sup>1</sup>, the agency's mission is to provide access for individuals and communities to museums and libraries to champion lifelong learning, strengthen community engagement, and advance the agency's mission to empower America's museums, libraries, and related organizations. 
 
@@ -19,13 +19,20 @@ Note: I did not analyze the 118th Congressional term (2023-2025) since funding m
 You will need the folllowing libraries downloaded: 
 
 ```
-requests, Numpy, Pandas, Matplotlib, BeautifulSoup, re, time, Seaborn, Plotly.
+pip install requests
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install beautifulsoup4
+pip install re
+pip install seaborn
+pip install plotly
 ``` 
 
 ## Launch
-Here's a snippet of the code. 
+Here's a snippet of the code output. 
 
-![Code snippet. Show IMLS Funding by Fiscal Year from 1997-2022.]("IMLS-Funding/imlsscrsht.png")
+<img src="https://github.com/tnguye27/IMLS-Funding/blob/main/imlsscrsht.png?raw=True" alt="Here's a snippet of the code output.">
 
 ## Reference 
 
