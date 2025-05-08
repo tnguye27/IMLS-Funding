@@ -1,5 +1,6 @@
 # IMLS Funding
 
+![IMLS logo.]("IMLS-Funding/imlslogo.png")
 
 ## Trung Nguyen's Final Project
 
@@ -13,9 +14,18 @@ For this project, I will analyze funding for these IMLS programs in all 50 state
 
 Note: I did not analyze the 118th Congressional term (2023-2025) since funding might not be in effect yet for year 2024 or January 2025. The 117th (2021-2023) Congressional term ended in January 2023 but I did not include year 2023 for simplicity sake. In addition, since Congressional terms end on January of odd-numbered years, I did not analyze those ending month and treated those ending months as the new term for simplicity sake. Also, I did not analyze the effect of inflation on funding.   
 
-## Dependencies
+## Setup
 
-You will need the folllowing libraries downloaded: requests, Numpy, Pandas, Matplotlib, BeautifulSoup, re, time, Seaborn, Plotly. 
+You will need the folllowing libraries downloaded: 
+
+```
+requests, Numpy, Pandas, Matplotlib, BeautifulSoup, re, time, Seaborn, Plotly.
+``` 
+
+## Launch
+Here's a snippet of the code. 
+
+![Code snippet. Show IMLS Funding by Fiscal Year from 1997-2022.]("IMLS-Funding/imlsscrsht.png")
 
 ## Reference 
 
