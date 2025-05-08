@@ -11,6 +11,9 @@ For this project, I will analyze funding for these IMLS programs in all 50 state
 
 Note: I did not analyze the 118th Congressional term (2023-2025) since funding might not be in effect yet for year 2024 or January 2025. The 117th (2021-2023) Congressional term ended in January 2023 but I did not include year 2023 for simplicity sake. In addition, since Congressional terms end on January of odd-numbered years, I did not analyze those ending month and treated those ending months as the new term for simplicity sake. Also, I did not analyze the effect of inflation on funding.   
 
+Dependencies
+You will need the folllowing libraries downloaded: requests, Numpy, Pandas, Matplotlib, BeautifulSoup, re, time, Seaborn, Plotly. 
+
 Reference 
 
 1) https://www.imls.gov/about/learn-about-imls/our-mission-vision
