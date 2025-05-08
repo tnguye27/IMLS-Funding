@@ -1,4 +1,6 @@
 # IMLS Funding
+
+
 ## Trung Nguyen's Final Project
 
 The Institute of Museum and Library Services (IMLS) is a federal agency dedicated to funding library, archive, and museum services. According to the IMLS website<sup>1</sup>, the agency's mission is to provide access for individuals and communities to museums and libraries to champion lifelong learning, strengthen community engagement, and advance the agency's mission to empower America's museums, libraries, and related organizations. 
