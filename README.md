@@ -10,6 +10,8 @@ According to the[ American Library Association (ALA)](https://www.ala.org/faq-ex
 
 Although, library funding only draws less than 0.003% of the annual federal budget, yet it has huge impact to the millions of Americans who rely on library and museum services in their every day life. 
 
+## Goal
+
 For this project, I will analyze funding for these IMLS programs in all 50 states from the time period of 1997-2022, in addition to party government breakdown (Congress and Presidency) from the same time period. I will attempt to answer the question: "Are there relationships between IMLS funding and party government?"
 
 Note: I did not analyze the 118th Congressional term (2023-2025) since funding might not be in effect yet for year 2024 or January 2025. The 117th (2021-2023) Congressional term ended in January 2023 but I did not include year 2023 for simplicity sake. In addition, since Congressional terms end on January of odd-numbered years, I did not analyze those ending month and treated those ending months as the new term for simplicity sake. Also, I did not analyze the effect of inflation on funding.   
