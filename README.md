@@ -37,14 +37,15 @@ content = BeautifulSoup(webpage.content, "html.parser")
 You will need the folllowing libraries downloaded: 
 
 ```
-pip install requests
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install beautifulsoup4
-pip install re
-pip install seaborn
-pip install plotly
+# import libraries
+%pip install requests
+%pip install numpy
+%pip install pandas
+%pip install matplotlib
+%pip install beautifulsoup4
+%pip install re
+%pip install seaborn
+%pip install plotly
 ``` 
 
 ## Launch
